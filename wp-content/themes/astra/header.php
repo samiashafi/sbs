@@ -27,7 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php astra_head_bottom(); ?>
 </head>
 
-<body <?php astra_schema_body(); ?> <?php body_class(); ?>>
+<body <?php astra_schema_body(); ?> <?php body_class(); ?>> 			
 <?php astra_body_top(); ?>
 <?php wp_body_open(); ?>
 
